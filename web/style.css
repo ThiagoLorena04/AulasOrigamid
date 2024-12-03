@@ -1,0 +1,26 @@
+#introducao {
+  color: gold;
+  background-color: black;
+  border-radius: 6px;
+  padding: 10px;
+}
+.codigo {
+  color: blue;
+}
+.desing {
+  color: red;
+}
+.azul {
+  color: blue;
+}
+.underline {
+  text-decoration: underline;
+}
+.grande {
+  font-size: 32px;
+}
+
+.eie {
+  border: 3px;
+  padding-right: 400px;
+}

@@ -1,0 +1,25 @@
+.subtitle {
+  font-size: 30px;
+}
+.diahoje {
+  color: darkred;
+}
+.diaamanha {
+  color: darkblue;
+}
+.diaamanha,
+.diahoje {
+  font-size: 20px;
+}
+a {
+  text-decoration: none;
+}
+h2 a {
+  color: seagreen;
+}
+html {
+  font-family: arial;
+}
+.inicio {
+  color: black;
+}
