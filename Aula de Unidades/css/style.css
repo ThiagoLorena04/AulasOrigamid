@@ -1,24 +1,12 @@
-a{
+ p{
+  font-size: 2rem;
+  font-family: georgia, times, serif;
+  font-weight: bold;
+  font-style: italic;
+  line-height: 2.8rem;
   text-decoration: none;
-  color: white;
-  background: darkblue;
-  display: inline-block;
-}
-
-p{
-background-color: lightblue;
-}
-
-.px{
-  font-size: 24px;
-  padding: 16px 32px;
-}
-
-html{
-  font-size: 200%;
-}
-
-.rem{
-  font-size: 1.5rem;
-  padding: 1rem 2rem;
-}
+  text-transform: lowercase;
+  /* text-indent: 5rem; */
+  text-align: left;
+  letter-spacing: 0.0 5rem;
+ }
